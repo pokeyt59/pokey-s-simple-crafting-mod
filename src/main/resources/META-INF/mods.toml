@@ -9,6 +9,7 @@ displayName="pokey's simple alt craft mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
 authors="pokey_yt, MCreator"
+description="beta version for testing resons"
 
 [[dependencies.pokeys_simple_craft_alt_mod]]
     modId="minecraft"
