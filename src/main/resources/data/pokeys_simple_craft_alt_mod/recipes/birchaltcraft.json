@@ -1,0 +1,19 @@
+{
+  "group": "alttrees",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:birch_leaves"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:birch_log"
+    }
+  ],
+  "result": {
+    "item": "minecraft:birch_sapling",
+    "count": 3
+  }
+}

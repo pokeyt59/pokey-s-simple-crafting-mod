@@ -1,0 +1,19 @@
+{
+  "group": "alttrees",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_leaves"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:jungle_log"
+    }
+  ],
+  "result": {
+    "item": "minecraft:jungle_sapling",
+    "count": 3
+  }
+}

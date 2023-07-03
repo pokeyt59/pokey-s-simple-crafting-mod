@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="pokeys_simple_craft_alt_mod"
+version="0.0.1"
+displayName="pokey's simple alt craft mod"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="pokey_yt, MCreator"
+
+[[dependencies.pokeys_simple_craft_alt_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

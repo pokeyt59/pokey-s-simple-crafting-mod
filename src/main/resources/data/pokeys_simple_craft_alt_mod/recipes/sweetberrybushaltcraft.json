@@ -1,0 +1,20 @@
+{
+  "group": "altbushes",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sweet_berries"
+    },
+    "1": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "minecraft:sweet_berry_bush",
+    "count": 2
+  }
+}

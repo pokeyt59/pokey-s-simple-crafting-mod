@@ -1,0 +1,19 @@
+{
+  "group": "alttrees",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:acacia_leaves"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:acacia_log"
+    }
+  ],
+  "result": {
+    "item": "minecraft:acacia_sapling",
+    "count": 3
+  }
+}

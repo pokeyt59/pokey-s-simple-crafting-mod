@@ -1,0 +1,24 @@
+{
+  "group": "altflowers",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_dye"
+    },
+    "1": {
+      "item": "minecraft:lime_dye"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_tulip",
+    "count": 3
+  }
+}

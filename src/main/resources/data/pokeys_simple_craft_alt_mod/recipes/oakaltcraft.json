@@ -1,0 +1,19 @@
+{
+  "group": "alttrees",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_leaves"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:oak_log"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oak_sapling",
+    "count": 3
+  }
+}

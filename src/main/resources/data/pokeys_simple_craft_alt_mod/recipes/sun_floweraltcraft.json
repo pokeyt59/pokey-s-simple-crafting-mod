@@ -1,0 +1,24 @@
+{
+  "group": "altflowers",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_dye"
+    },
+    "1": {
+      "item": "minecraft:yellow_dye"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:sunflower",
+    "count": 3
+  }
+}

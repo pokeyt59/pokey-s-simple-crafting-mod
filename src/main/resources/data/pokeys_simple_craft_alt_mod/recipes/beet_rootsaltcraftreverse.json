@@ -1,0 +1,16 @@
+{
+  "group": "altcrops",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "result": {
+    "item": "minecraft:beetroot_seeds",
+    "count": 4
+  }
+}

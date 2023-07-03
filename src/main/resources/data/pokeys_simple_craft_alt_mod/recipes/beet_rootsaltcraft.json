@@ -1,0 +1,13 @@
+{
+  "group": "altcrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beetroot_seeds"
+    }
+  ],
+  "result": {
+    "item": "minecraft:beetroot",
+    "count": 2
+  }
+}

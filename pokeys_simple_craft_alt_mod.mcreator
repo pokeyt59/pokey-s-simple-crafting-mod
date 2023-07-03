@@ -1,0 +1,441 @@
+{
+  "mod_elements": [
+    {
+      "name": "Darkoakaltcraft",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoakaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/darkoakaltcraft.json"
+        ]
+      },
+      "path": "~/plants/trees"
+    },
+    {
+      "name": "Oakaltcraft",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oakaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/oakaltcraft.json"
+        ]
+      },
+      "path": "~/plants/trees"
+    },
+    {
+      "name": "Acaciaaltcraft",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acaciaaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/acaciaaltcraft.json"
+        ]
+      },
+      "path": "~/plants/trees"
+    },
+    {
+      "name": "Birchaltcraft",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "birchaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/birchaltcraft.json"
+        ]
+      },
+      "path": "~/plants/trees"
+    },
+    {
+      "name": "Sprucealtcraft",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprucealtcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/sprucealtcraft.json"
+        ]
+      },
+      "path": "~/plants/trees"
+    },
+    {
+      "name": "Junglealtcraft",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "junglealtcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/junglealtcraft.json"
+        ]
+      },
+      "path": "~/plants/trees"
+    },
+    {
+      "name": "Sweetberrybushaltcraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sweetberrybushaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/sweetberrybushaltcraft.json"
+        ]
+      },
+      "path": "~/plants/bushes"
+    },
+    {
+      "name": "Rosebushaltcraft",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rosebushaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/rosebushaltcraft.json"
+        ]
+      },
+      "path": "~/plants/bushes"
+    },
+    {
+      "name": "Dedbushaltcraft",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dedbushaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/dedbushaltcraft.json"
+        ]
+      },
+      "path": "~/plants/bushes"
+    },
+    {
+      "name": "WhiteTulipaltcraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_tulipaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/white_tulipaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "PinkTulipaltcraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_tulipaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/pink_tulipaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "OxeyeDaisyaltcraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxeye_daisyaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/oxeye_daisyaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "Cornfloweraltcraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cornfloweraltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/cornfloweraltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "Dandelionaltcraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dandelionaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/dandelionaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "Alliumaltcraft",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alliumaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/alliumaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "Poppyaltcraft",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poppyaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/poppyaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "BlueOrchidaltcraft",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_orchidaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/blue_orchidaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "OrangeTulipaltcraft",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_tulipaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/orange_tulipaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "RedTulipaltcraft",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_tulipaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/red_tulipaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "AzureBluetaltcraft",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "azure_bluetaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/azure_bluetaltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "SunFloweraltcraft",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sun_floweraltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/sun_floweraltcraft.json"
+        ]
+      },
+      "path": "~/plants/flowers"
+    },
+    {
+      "name": "BeetRootsaltcraft",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beet_rootsaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/beet_rootsaltcraft.json"
+        ]
+      },
+      "path": "~/plants/crops/seed sep"
+    },
+    {
+      "name": "BeetRootsaltcraftreverse",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beet_rootsaltcraftreverse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/beet_rootsaltcraftreverse.json"
+        ]
+      },
+      "path": "~/plants/crops/seed sep"
+    },
+    {
+      "name": "Sugarbacktocane",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sugarbacktocane",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/sugarbacktocane.json"
+        ]
+      },
+      "path": "~/plants/crops"
+    },
+    {
+      "name": "Chestaltcraft",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chestaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/chestaltcraft.json"
+        ]
+      },
+      "path": "~/wood"
+    },
+    {
+      "name": "Stickaltcraft",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stickaltcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/stickaltcraft.json"
+        ]
+      },
+      "path": "~/wood"
+    },
+    {
+      "name": "Planktowood",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "planktowood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pokeys_simple_craft_alt_mod/recipes/planktowood.json"
+        ]
+      },
+      "path": "~/wood"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "plants",
+        "children": [
+          {
+            "name": "trees",
+            "children": []
+          },
+          {
+            "name": "bushes",
+            "children": []
+          },
+          {
+            "name": "flowers",
+            "children": []
+          },
+          {
+            "name": "crops",
+            "children": [
+              {
+                "name": "seed sep",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "wood",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "pokeys_simple_craft_alt_mod",
+    "modName": "pokey\u0027s simple alt craft mod",
+    "version": "0.0.1",
+    "author": "pokey_yt, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.pokeysimplealtcarftmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}

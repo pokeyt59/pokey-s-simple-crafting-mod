@@ -1,0 +1,19 @@
+{
+  "group": "alttrees",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:spruce_leaves"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:spruce_log"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spruce_sapling",
+    "count": 3
+  }
+}
