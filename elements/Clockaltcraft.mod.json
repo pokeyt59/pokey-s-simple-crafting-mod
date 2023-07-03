@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 9,
+    "group": "altmeatalwork",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Blocks.REDSTONE_BLOCK"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.CLOCK"
+    },
+    "name": "clockaltcraft",
+    "namespace": "mod"
+  }
+}

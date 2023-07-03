@@ -1,0 +1,23 @@
+{
+  "group": "altmeatalwork",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "minecraft:iron_block"
+    },
+    "4": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 9
+  }
+}
